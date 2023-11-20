@@ -1,5 +1,7 @@
 ## About: 
-<h2 font-size="20px">Nikita 17 y.o. Minsk</h2>
+<div display="flex">
+  <h2 font-size="20px">Nikita 17 y.o. Minsk</h2>
+</div>
 
 ## Languages:
 <div display="flex">
