@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="65" height="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="65" height="65"/>
-  <img src="" alt="figma" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="figma" width="65" height="65"/>
 </div>
 
 ## Eng lvl:
