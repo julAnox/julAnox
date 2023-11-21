@@ -1,5 +1,5 @@
 ## About: 
-
+Nikita 17 y.o. Minsk, Belarus
 ## Languages:
 <div display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="65" height="65"/>
