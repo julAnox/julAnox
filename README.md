@@ -22,3 +22,8 @@ Nikita 18 y.o. Minsk, Belarus
 
 <h2>Connect with me: </h2>
 <a href="https://t.me/ichebwy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="html5" width="65" height="65"/> </a>
+
+## 
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julAnox&layout=compact" style="height: 200px">
+</div>
